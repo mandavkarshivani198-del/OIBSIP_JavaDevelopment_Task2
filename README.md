@@ -42,7 +42,7 @@ This project helps beginners understand Java logic building, GUI development, ev
 https://github.com/mandavkarshivani198-del/OIBSIP_JavaDevelopment_Task2
 
 ## Demo Video
-https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_java-studentproject-codingjourney-ugcPost-7438613612497350657-6CQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPLtesB_hTu1XrS9NiuYPIZ8GFThYiBuqk
+https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_java-studentproject-codingjourney-ugcPost-7438613612497350657-6CQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPLtesB_hTu1XrS9NiuYPIZ8GFThYiBuqk 
 
 ## LinkedIn Post
 https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_oibsip-oasisinfobyte-aicte-share-7438620634265395200-8W-v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPLtesB_hTu1XrS9NiuYPIZ8GFThYiBuqk
