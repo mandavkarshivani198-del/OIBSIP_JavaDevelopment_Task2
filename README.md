@@ -1,11 +1,11 @@
 # OIBSIP_JavaDevelopment_Task2 Number Guessing Game
 
-##Objective
+#Objective
 Create a simple Number Guessing Game using Java.
 The program generates a random number between 1 and 100, and the user must guess the correct number within a limited number of attempts.
 This project helps beginners understand Java logic building, GUI development, event handling, and random number generation.
 
-##Tools Used
+#Tools Used
 •	Java
 •	Java Swing
 •	NetBeans IDE (Code Editor)
